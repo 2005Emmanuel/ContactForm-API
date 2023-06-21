@@ -1,5 +1,5 @@
 # ContactForm-API
-This is a RESTFUL API  that sends an email notification to the owner of the site after a client has Succesfully filled in the form ..
+This is a RESTFUL API  that sends an email notification to the owner of the site after a client has Succesfully filled in the Contact us form ..
 
 
 # Getting Started
@@ -21,7 +21,7 @@ This is a RESTFUL API  that sends an email notification to the owner of the site
    5. The web application is accessible via ```  localhost:8080  ``` 
 
 
- 3.  Technologies used
+#  Technologies used
 
  -   Spring Boot
  -   javalMailSender
