@@ -1,5 +1,5 @@
 # ContactForm-API
-This is a RESTFUL API that sends the data entered in a contact form to the server and sends an Email to the developer's Mail account .
+This is a RESTFUL API  that sends an email notification to the owner of the site after a client has Succesfully filled in the form ..
 
 
 # Getting Started
@@ -23,8 +23,8 @@ This is a RESTFUL API that sends the data entered in a contact form to the serve
 
  3.  Technologies used
 
- -      Spring Boot
- -      javalMailSender
- -      Mailtrap Server
- -      h2 Database
+ -   Spring Boot
+ -   javalMailSender
+ -   Mailtrap Server
+ -   h2 Database
  
