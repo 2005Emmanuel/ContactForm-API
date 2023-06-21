@@ -23,8 +23,8 @@ This is a RESTFUL API that sends the data entered in a contact form to the serve
 
  3.  Technologies used
 
- -    Spring Boot
- -    javalMailSender
- -    Mailtrap Server
- -    h2 Database
+ -      Spring Boot
+ -      javalMailSender
+ -      Mailtrap Server
+ -      h2 Database
  
