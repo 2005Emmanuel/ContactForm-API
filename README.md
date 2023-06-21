@@ -19,3 +19,12 @@ This is a RESTFUL API that sends the data entered in a contact form to the serve
    4. Run using ```  mvn spring-boot:run  ```
 
    5. The web application is accessible via ```  localhost:8080  ``` 
+
+
+ 3.  Technologies used
+
+ -    Spring Boot
+ -    javalMailSender
+ -    Mailtrap Server
+ -    h2 Database
+ 
