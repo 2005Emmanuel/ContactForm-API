@@ -15,10 +15,10 @@
 	<description>This is a contact form API</description>
 	<properties>
 	<!-- Development -->
-		<java.version>20</java.version>
+<!-- 		<java.version>20</java.version> -->
 
 		<!-- Production -->
-		<!-- <java.version>17</java.version> -->
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
